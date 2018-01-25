@@ -1,1 +1,1 @@
-dist
+Getlinks Uikit for CDN
